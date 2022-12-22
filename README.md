@@ -1,2 +1,1 @@
-# P15
-project
+# Project-Template BB2
